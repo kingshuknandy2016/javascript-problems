@@ -1,5 +1,9 @@
 # Table of contents
 
+## Other
+
+1. [Working with Objects](./src/practice2/objects_practice.js)
+
 ## Array
 
 1. [Even and Odd](./src/practice2/even_odd_array.js)
@@ -10,3 +14,4 @@
 ## Strings
 
 1. [Longest Common Prefix](./src/practice2/longest_common_prefix.js)
+2. [Occurrence of Word , Max word ](./src/practice2/number_of_words.js)

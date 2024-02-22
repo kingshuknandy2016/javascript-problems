@@ -7,6 +7,8 @@
 3. **Object Array** - [Filter Employee by age, and add additional property](./src/objects/array_of_objects.js)
 4. **Flatten Map** - [Write a function that takes a hierarchical map of properties and converts it to a single, flattened map, with the different levels separated by a forward slash ('/')](./src/objects/flatten_map.js)
 5. **Flatten Array** - [Flatten Array](./src/objects/flatten_array.js)
+6. **Currying** - [Multiply multiply(2)(3)(4)](./src/concepts/closures/currying.js)
+7. **Hoisting** and **Closures** [Problems](./src/concepts/closures/hoisting.js)
 
 ## Array
 

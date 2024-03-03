@@ -37,3 +37,11 @@ entries.forEach((entry) => {
   let value = entry[1];
   console.log(`${key}:${value}`);
 });
+
+
+let entriesP1=Object.entries(user)
+entriesP1.forEach(test=>{
+ let k = test[0];
+ let v = test[1];
+ console.log(`${k}:${v}`);
+})

@@ -7,8 +7,15 @@
 3. **Object Array** - [Filter Employee by age, and add additional property](./src/objects/array_of_objects.js)
 4. **Flatten Map** - [Write a function that takes a hierarchical map of properties and converts it to a single, flattened map, with the different levels separated by a forward slash ('/')](./src/objects/flatten_map.js)
 5. **Flatten Array** - [Flatten Array](./src/objects/flatten_array.js)
-6. **Currying** - [Multiply multiply(2)(3)(4)](./src/concepts/closures/currying.js)
-7. **Hoisting** and **Closures** [Problems](./src/concepts/closures/hoisting.js)
+
+## Concepts
+1. **Closure Example** - [Closure](./src/concepts/closures/closureExample.js)
+2. **Currying - Multiply multiply(2)(3)(4)** - [Multiply multiply(2)(3)(4)](./src/concepts/closures/currying.js)
+3. **Hoisting** and **Closures** [Problems](./src/concepts/closures/hoisting.js)
+4. **Simple Callback** - [Callback](./src/concepts/callbackAndPromises/callbacksample.js)
+5. **Child Process - Spawn** - [Spawn](./src/concepts/childProcesses/spawnExample.js)
+6. **Debouncing** - [Debouncing](./src/concepts/debounceAndThrottle/debouncing.js)
+7. **Throttling** - [Throttling](./src/concepts/debounceAndThrottle/throttling.js)
 
 ## Array
 

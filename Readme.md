@@ -1,6 +1,6 @@
 # Table of contents
 
-## Other
+## Objects and Flattening 
 
 1. [Object Basics, Dynamically Assign Properties, Checking if property exist, looping across keys ](./src/objects/object_basics.js)
 2. **Problems** - [Object is Empty, Sum Object Properties, Multiply Numeric Properties](./src/objects/problems.js)

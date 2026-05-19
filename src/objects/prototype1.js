@@ -21,3 +21,10 @@ console.log(myFather.nationality);
 Person.prototype.nationality="Greek"
 const myFather2 = new Person("Ram", "Nandy", 23, "red");
 console.log(myFather2.nationality)
+
+
+let a=[1,2];
+console.log(a.__proto__); 
+
+let b = {};
+console.log(b.__proto__);

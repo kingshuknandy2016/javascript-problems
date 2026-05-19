@@ -18,3 +18,10 @@ const modifiedEmployees = filteredEmp.map((employee) => {
 });
 
 console.log(`${JSON.stringify(modifiedEmployees, null, 2)}`);
+
+// Add property
+
+const newEmpSet = userArray.map((user) => {
+  return { ...user, dept: "Engineering", location: "India" };
+});
+console.log(`${JSON.stringify(newEmpSet, null, 2)}`);

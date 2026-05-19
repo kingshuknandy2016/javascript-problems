@@ -108,3 +108,7 @@
 
 1. [100 doors locker puzzle](./src/test6.js)
 2. [Parking slot assignment](./src/test7.js)
+
+## Practice Set (blank stubs)
+
+Copy [`src/practice-set-all/`](./src/practice-set-all/) to practice every problem from scratch (no solutions). See [practice-set-all/README.md](./src/practice-set-all/README.md).
